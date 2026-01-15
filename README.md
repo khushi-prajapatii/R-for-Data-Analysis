@@ -15,4 +15,5 @@ This repository contains my daily practice while learning R for data analysis.
 - Concepts: row filtering, conditions, logical operators
 
 ## Day 4
+- Topic: Creating new Columns
 - Created new columns using direct values, calculations, and conditions
