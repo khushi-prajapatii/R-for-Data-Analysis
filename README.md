@@ -13,3 +13,6 @@ This repository contains my daily practice while learning R for data analysis.
 ## Day 3
 - Topic: Filtering data
 - Concepts: row filtering, conditions, logical operators
+
+## Day 4
+- Created new columns using direct values, calculations, and conditions
