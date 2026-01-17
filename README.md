@@ -19,5 +19,5 @@ This repository contains my daily practice while learning R for data analysis.
 - Created new columns using direct values, calculations, and conditions
 
 ## Day 5
--Topic: Summarizing data
--Used summary functions and group-based summaries
+- Topic: Summarizing data
+- Used summary functions and group-based summaries
