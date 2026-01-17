@@ -18,6 +18,6 @@ This repository contains my daily practice while learning R for data analysis.
 - Topic: Creating new Columns
 - Created new columns using direct values, calculations, and conditions
 
-##Day 5
+## Day 5
 -Topic: Summarizing data
 -Used summary functions and group-based summaries
